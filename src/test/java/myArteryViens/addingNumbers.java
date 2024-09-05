@@ -12,4 +12,17 @@ public class addingNumbers {
 		System.out.println(sum);
 	}
 
+
+    public static void m1()
+    {
+    	System.out.println("Aanchal Gupta");   
+    }
+
+
+    public static void m2()
+    {
+    	System.out.println("Sonal Gupta");
+    }
+
+
 }
